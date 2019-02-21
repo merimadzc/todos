@@ -1,8 +1,8 @@
 <template>
   <div>
       <nav class="fixed-top">
-        <router-link to="/todos">Home</router-link>
-        <router-link to="/todos/app">App</router-link>      
+        <router-link to="/">Home</router-link>
+        <router-link to="/app">App</router-link>      
       </nav>  	
   </div>
 </template>

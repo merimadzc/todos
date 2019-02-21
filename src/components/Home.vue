@@ -13,7 +13,7 @@
             <rect class="shape" height="60" width="320" />
           </svg>
           <div class="text">
-            <router-link to="/todos/app">Try!</router-link>
+            <router-link to="/app">Try!</router-link>
           </div>
         </div>
   	  </div>
