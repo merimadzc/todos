@@ -11,7 +11,7 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/todos',
+      path: '/',
       name: 'home',
       component: Home
     },
@@ -19,7 +19,7 @@ export default new Router({
       component: Home 
     }, 
     {
-      path: '/todos/app',
+      path: '/app',
       name: 'app',
       component: Application
     },
