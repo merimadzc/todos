@@ -1,7 +1,7 @@
 <template>
   <div id="footer" class="fixed-bottom">
   	<h4 class="text-center">Made with <font-awesome-icon icon="heart" id="heart" /> by 
-      <a href="https://github.com/merimadzc" target="_blank">
+      <a href="https://merimadzc.github.io/todos/" target="_blank">
         Merima
       </a>
     </h4>
