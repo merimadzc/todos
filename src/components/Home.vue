@@ -66,10 +66,10 @@ export default {
 }
 
 /* Try App Button Style */
-.text a {
+#home .text a {
   color: white;
 }
-.text a:hover {
+#home .text a:hover {
   text-decoration: none;
 }
 .svg-wrapper {
